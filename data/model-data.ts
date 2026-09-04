@@ -159,20 +159,20 @@ export const modelData: ModelData = {
    * Videos never autoplay with sound.
    */
   videos: [
-  /**{
+  {
     title: "Hanshika Model Shoot",
-    category: "Fashion",
+    category: "RAW Video FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name.mp4",
+    src: "/portfolio/videos/HANSHIKA MARADIYA.mp4",
     type: "mp4",
   },
   {
     title: "Hanshika Model Shoot",
-    category: "Fashion",
+    category: "LIVE ADVERTISEMENT RECORDING FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name-compressed.mp4",
+    src: "/portfolio/videos/HANSHIKA MARADIYA (1).mp4",
     type: "mp4",
-  },*/
+  },
 ],
 
    
